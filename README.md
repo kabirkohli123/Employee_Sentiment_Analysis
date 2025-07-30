@@ -58,5 +58,5 @@ Monitor Sentiment as a Key Metric: The methods used in this project can be deplo
 
 ## 👤 Author
 **Kabir Kohli**  
-Email: kabir.kohli@email.com  
+Email: kabir.kohli.work@email.com  
 Submitted to: jbirch@glynac.ai
